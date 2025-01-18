@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065236137131",
+    "project_id": "majeat-f7755",
+    "storage_bucket": "majeat-f7755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065236137131:android:ee884be8cba3912037e3ee",
+        "android_client_info": {
+          "package_name": "com.example.majeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_LMYwa4OSYX91FrNsQApJw6_EnYA654"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

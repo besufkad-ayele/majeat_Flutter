@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "image": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "password": "password123",
+      "location": "Adiss Ababa Kagnew peace keeping round"
+    },
+    {
+      "id":2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "image": "https://images.pexels.com/photos/1441151/pexels-photo-1441151.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "password": "pass456",
+      "location": "Adiss Ababa around welosefer"
+    },    {
+      "id":2,
+      "name": "Bese",
+      "email": "bese.aye@example.com",
+      "image": "https://images.pexels.com/photos/1441151/pexels-photo-1441151.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "password": "passmeme",
+      "location": "Adiss Ababa around welosefer"
+    },    {
+      "id":2,
+      "name": "user",
+      "email": "user@gmail.com",
+      "image": "https://images.pexels.com/photos/1441151/pexels-photo-1441151.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "password": "password",
+      "location": "Adiss Ababa around welosefer"
+    }
+  ]
+  
